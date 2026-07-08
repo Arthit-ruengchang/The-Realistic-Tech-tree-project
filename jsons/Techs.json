@@ -13,7 +13,23 @@
 				"uniques": ["Starting tech"]
 			}
 		]
-	},
+	}
+	
+	{
+		"columnNumber": 1,
+		"era": "Ancient era",
+		"techCost": 35,
+		"buildingCost": 50,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "rocky",
+				"row": 6,
+				"quote": "'whren we can break it'",
+				"uniques": [""[+100]% weight to this choice for AI decisions"]
+			}
+		]
+	}
 	{
 		"columnNumber": 1,
 		"era": "Ancient era",
